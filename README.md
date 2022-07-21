@@ -7,3 +7,5 @@ This project files requires **Python 3** and the following Python libraries inst
 * Seaborn
 * Matplotlib
 * Sklearn 
+### Credits
+https://www.kaggle.com/code/ozlemilgun/the-prediction-of-titanic-passengers-survival
